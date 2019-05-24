@@ -1,0 +1,15 @@
+# -==| Title Configurations |==-
+
+WarpUI.title: §c>> §aWarpUI - SPNVN §c<<
+AddWarp.title: §c>> §aAddWarpUI §c<<
+delWarp.title: §c>> §aDelWarpUI §c<<
+
+# -==| Button Configurations |==-
+
+Warps.button: §aTeleport§cWarp
+AdminTools.button: §cAdminTools
+addWarp.button: §aCreate Warp
+delWarp.button: §cDelete Warp
+listWarp.button: §aList Warp
+
+...
